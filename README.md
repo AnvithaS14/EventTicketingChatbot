@@ -124,5 +124,3 @@ Location-based event recommendations
 Mobile-responsive layout
 
 Real Ticketmaster API integration
-
-Resume Description (Optional)
