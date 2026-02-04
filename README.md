@@ -3,7 +3,6 @@
 
 A smart event ticket booking web application built using Python and Streamlit.
 The application allows users to search events, view dynamically adjusted ticket prices, apply automatic group discounts, and book tickets through an intuitive and visually clean user interface.
-
 This project simulates a Ticketmaster-style ticket booking system with dynamic pricing logic and session-stable search functionality.
 
 **Features**
